@@ -21,7 +21,7 @@ This project is a simple example to help you get started with Jetpack Compose. I
 
 
 ## Project Structure
-The project follows a modular structure to keep the code organized and maintainable. Here's an overview of the key directories and files:
+The project follows a modular structure to keep the code organized and maintainable.
 
 
 ## Installation
